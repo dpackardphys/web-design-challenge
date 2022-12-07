@@ -1,0 +1,11 @@
+<style>
+.navbar { 
+    background-color: primary;
+}
+.navbar.collapse {
+    display:flex;
+}
+.navbar.collapsing,
+.navbar.show {
+    background: blueviolet !important;
+}
